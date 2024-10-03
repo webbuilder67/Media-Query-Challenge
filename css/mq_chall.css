@@ -1,0 +1,16 @@
+body {
+    background-color:white;
+    color:blue;
+}
+p1 {
+    color:crimson;
+    font-style: italic;
+    font-weight: bold;
+}
+  
+@media screen and (min-width: 600px) {
+    body {
+    font-style: italic;
+    color:aquamarine;
+}
+}
